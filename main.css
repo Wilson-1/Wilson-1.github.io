@@ -1,5 +1,5 @@
 * {
-	background-color: #001233;
+  background-color: #001233;
   font-family: 'Inter', sans-serif;
   font-weight: 100;
 }
@@ -60,7 +60,9 @@ div > #pic {
   max-width: 450px;
 
 }
-
+a {
+  margin-top: -10px;
+}
 p {
   max-width: 750px;
 }
@@ -154,12 +156,13 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 40px;
   }
 
   p {
     margin-left: 0%;
     margin: 5%;
-    
+    font-size: 28px
   }
 }
 
